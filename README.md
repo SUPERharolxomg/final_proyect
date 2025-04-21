@@ -1,8 +1,12 @@
 Universidad de Manizales
 Ingenieria de Sistemas
+
 Harold David Garces Casas
+
 Jerónimo Montoya Osorio
+
 Programacion I
+
 Contexto de la problematica:
 
 Gestión de Tareas o Recordatorios en una Aplicación de Productividad
